@@ -5,7 +5,7 @@
 #     print(fruit + 'pie')
 # print(fruits)
 
-student_scores = [130, 135,234,222, 111, 135, 343, 23, 678, 383]
+student_scores = [130, 135,234,222, 111, 135, 343, 23, 678, 38]
 # total_exam_score = sum(student_scores)
 # print(total_exam_score)
 # sum1 = 0
